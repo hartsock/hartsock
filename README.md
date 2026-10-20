@@ -1,3 +1,5 @@
+A proud member of the GitHub community since November 11th 2008.
+
 “Computer science is no more about computers than astronomy is about telescopes.” -- Edsger W. Dijkstra
 
 Current _personal_ projects:
