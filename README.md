@@ -3,7 +3,7 @@
 ---
 
 other projects:
-* [newt-agent](https://github.com/Gilamonster-Foundation/newt-agent), an experimental custom harness with many more knobs than most agent-harnesses have; as well as an experimental distributed Object Capability (OCAP) permissions system designed to simplify authority delegation in agentic swarms
+* [newt-agent](https://hartsock.github.io/series/newt-agent/), an experimental custom harness with my own [context management system](https://hartsock.github.io/series/newt-agent/context/) that can simulate _infinite context_
 * [Making Minds?](https://hartsock.github.io/courses/ai-theology/) an introductory course on Artificial Intelligence targeted to religious leaders and philosophers that will give the _mathematical_ basis of Statistical Models and how Large (statistical) Language Models work so they can make informed decisions about their own positions on the subject.
 
 ---
